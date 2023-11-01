@@ -1,6 +1,6 @@
 # Dynamic-Web-Design-with-React.js
 
-Course Title: Dynamic Web Design with React.js
+## Course Title: Dynamic Web Design with React.js
 
 Course Description:
 This course is designed to provide students with a comprehensive understanding of dynamic web design using React.js. React.js is a popular JavaScript library for building user interfaces and is widely used in modern web development. Students will learn the fundamentals of React.js and how to create dynamic and interactive web applications. The course will cover topics such as component-based architecture, state management, routing, and integrating with backend APIs. By the end of this course, students will have the skills to create scalable and responsive web applications using React.js.
