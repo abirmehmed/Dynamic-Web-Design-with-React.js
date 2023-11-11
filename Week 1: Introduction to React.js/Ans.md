@@ -22,11 +22,14 @@ Understanding JSX syntax and components:
 JSX elements are transformed into React elements, which are then rendered to the DOM.
 Components are the building blocks of React applications. They can be functional or class-based and encapsulate reusable UI logic.
 As for the homework assignments, here are a few examples:
+#
 
 1. Create a React component that displays a list of items fetched from an API.
 2. Implement a form component with input validation using React's built-in form handling capabilities.
 3. Build a responsive navigation bar using React and CSS.
 4. Create a React application that fetches data from a JSON file and displays it in a table format.
 5. Build a React component that allows users to add, edit, and delete items from a to-do list.
+
+#
 
  These assignments will help you practice and reinforce your understanding of React.js concepts and techniques. Remember to break down each task into smaller steps and consult the official React documentation and online resources for guidance.
